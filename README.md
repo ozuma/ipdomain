@@ -5,6 +5,8 @@ OSINT tools for research IP/domain.
 ├── README.md
 ├── ipapi.co   https://ipapi.co/
 ├── ipinfo.io  https://ipinfo.io/
-└── openphish  https://openphish.com/
+├── ipip.net
+├── myip.ms
+├── openphish  https://openphish.com/
+└── riskiq
 ```
-
