@@ -28,3 +28,7 @@ When you want to Human-Readable:
 ```
 $ ./getAccount.sh | jq .
 ```
+
+# Offical Client
+
+see: https://pypi.org/project/passivetotal2/
