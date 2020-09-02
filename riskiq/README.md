@@ -29,6 +29,11 @@ When you want to Human-Readable:
 $ ./getAccount.sh | jq .
 ```
 
-# Offical Client
+# Offical Resources
 
-see: https://pypi.org/project/passivetotal2/
+## Client
+https://pypi.org/project/passivetotal2/
+
+## API Document
+https://api.passivetotal.org/index.html
+
