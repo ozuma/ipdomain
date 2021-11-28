@@ -1,4 +1,4 @@
-OSINT tools for research IP/domain.
+OSINT tools and examples to research IP/domain.
 
 ```
 ├── LICENSE
@@ -6,7 +6,7 @@ OSINT tools for research IP/domain.
 ├── ipapi.co   https://ipapi.co/
 ├── ipinfo.io  https://ipinfo.io/
 ├── ipip.net
-├── myip.ms
+├── myip.ms    https://myip.ms/
 ├── openphish  https://openphish.com/
-└── riskiq
+└── riskiq     https://community.riskiq.com/
 ```
