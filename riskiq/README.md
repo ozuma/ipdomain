@@ -31,8 +31,11 @@ $ ./getAccount.sh | jq .
 
 # Offical Resources
 
-## Client
-https://pypi.org/project/passivetotal2/
+## Client Library (PyPI)
+https://pypi.org/project/passivetotal/
+
+### Document
+https://passivetotal.readthedocs.io/en/latest/
 
 ## API Document
 https://api.passivetotal.org/index.html
