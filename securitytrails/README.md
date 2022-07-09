@@ -1,4 +1,14 @@
-# Official
+# Usage
+
+```
+$ export TRAILS_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+$ ./passive_dns.sh <IP_ADDR>
+
+# Sample
+$ ./passive_dns.sh 155.94.184.70
+```
+
+# Official Documents
 
 ## Docs
 https://docs.securitytrails.com/
