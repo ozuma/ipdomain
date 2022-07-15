@@ -2,10 +2,12 @@
 
 ```
 $ export TRAILS_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-$ ./passive_dns.sh <IP_ADDR>
 
-# Sample
+# PassiveDNS
 $ ./passive_dns.sh 155.94.184.70
+
+# WHOIS
+$ ./whois.sh example.com
 ```
 
 # Official Documents
