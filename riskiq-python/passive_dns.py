@@ -8,5 +8,7 @@ analyzer.init()
 ip = analyzer.IPAddress(args[1])
 
 for record in ip.resolutions:
-    print(record.hostname)
+    hostname = record.hostname
+    if hostname:
+        print(record.hostname)
 
