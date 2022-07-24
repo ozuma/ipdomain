@@ -18,5 +18,5 @@ TOKEN=${IPINFO_TOKEN}
 #  Under IPv6 environment...
 #  $ curl v6.ipinfo.io/2404:6800:4004:808::200e
 
-curl -H "Authorization: Bearer $TOKEN" https://ipinfo.io/${1}/${2}?token=${TOKEN}
+curl -H "Authorization: Bearer $TOKEN" "https://ipinfo.io/${1}?token=${TOKEN}"
 
