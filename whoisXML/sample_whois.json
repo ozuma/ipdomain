@@ -1,0 +1,43 @@
+{"WhoisRecord": {
+  "domainName": "wgwinn.cn",
+  "parseCode": 8,
+  "audit": {
+    "createdDate": "2022-08-06 11:59:21 UTC",
+    "updatedDate": "2022-08-06 11:59:21 UTC"
+  },
+  "registrarName": "阿里云计算有限公司（万网）",
+  "registryData": {
+    "createdDate": "2021-12-31 15:51:17",
+    "expiresDate": "2022-12-31 15:51:17",
+    "registrant": {
+      "name": "思治惠",
+      "email": "764149174@qq.com"
+    },
+    "domainName": "wgwinn.cn",
+    "nameServers": {
+      "rawText": "dns13.hichina.com\u000adns14.hichina.com\u000a",
+      "hostNames": [
+        "dns13.hichina.com",
+        "dns14.hichina.com"
+      ],
+      "ips": [
+      ]
+    },
+    "status": "ok",
+    "rawText": "Domain Name: wgwinn.cn\u000aROID: 20211231s10001s46130832-cn\u000aDomain Status: ok\u000aRegistrant: 思治惠\u000aRegistrant Contact Email: 764149174@qq.com\u000aSponsoring Registrar: 阿里云计算有限公司（万网）\u000aName Server: dns13.hichina.com\u000aName Server: dns14.hichina.com\u000aRegistration Time: 2021-12-31 15:51:17\u000aExpiration Time: 2022-12-31 15:51:17\u000aDNSSEC: unsigned",
+    "parseCode": 219,
+    "header": "",
+    "strippedText": "Domain Name: wgwinn.cn\u000aROID: 20211231s10001s46130832-cn\u000aDomain Status: ok\u000aRegistrant: 思治惠\u000aRegistrant Contact Email: 764149174@qq.com\u000aSponsoring Registrar: 阿里云计算有限公司（万网）\u000aName Server: dns13.hichina.com\u000aName Server: dns14.hichina.com\u000aRegistration Time: 2021-12-31 15:51:17\u000aExpiration Time: 2022-12-31 15:51:17\u000aDNSSEC: unsigned\u000a",
+    "audit": {
+      "createdDate": "2022-08-06 11:59:21 UTC",
+      "updatedDate": "2022-08-06 11:59:21 UTC"
+    },
+    "registrarName": "阿里云计算有限公司（万网）",
+    "createdDateNormalized": "2021-12-31 15:51:00 UTC",
+    "expiresDateNormalized": "2022-12-31 15:51:00 UTC",
+    "whoisServer": "whois.cnnic.net.cn"
+  },
+  "contactEmail": "764149174@qq.com",
+  "domainNameExt": ".cn",
+  "estimatedDomainAge": 217
+}}
