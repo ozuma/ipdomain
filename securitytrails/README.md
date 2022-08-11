@@ -8,6 +8,11 @@ $ ./passive_dns.sh 155.94.184.70
 
 # WHOIS
 $ ./whois.sh example.com
+
+# to calc until expired
+$ ./printDaysUntilDomainExpired.py example.cn
+2022-10-18T00:00:00Z
+
 ```
 
 # Official Documents
