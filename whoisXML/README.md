@@ -6,8 +6,9 @@ $ export WHOISXML_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Simple WHOIS
 $ ./whois.sh <domain>
 
-Calculate days to Domain expiration date
-$ ./calc_until_expire.sh <domain>
+Print Domain Age
+$ ./estimatedDomainAge.py <domain>
+example.com,217
 ```
 
 # Official Documents
