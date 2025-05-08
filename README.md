@@ -10,7 +10,5 @@ OSINT tools and examples to research IP/domain.
 ├── ipqualityscore   https://www.ipqualityscore.com/
 ├── myip.ms          https://myip.ms/
 ├── openphish        https://openphish.com/
-└── riskiq           https://community.riskiq.com/
-└── riskiq-python    https://community.riskiq.com/
 └── securitytrails   https://securitytrails.com/
 ```
